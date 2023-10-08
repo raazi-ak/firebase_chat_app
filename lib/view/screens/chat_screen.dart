@@ -1,4 +1,3 @@
-import 'package:firebase_chat_app/model/user.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../provider/firebase_provider.dart';

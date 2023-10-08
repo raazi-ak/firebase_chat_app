@@ -45,7 +45,6 @@ class _ChatsScreenState extends State<ChatsScreen> with WidgetsBindingObserver {
         FirebaseFirestoreService.updateUserData({'isOnline': false});
         break;
       case AppLifecycleState.hidden:
-        // TODO: Handle this case.
         break;
     }
   }

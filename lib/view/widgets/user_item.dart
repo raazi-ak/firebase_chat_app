@@ -3,7 +3,6 @@ import 'package:timeago/timeago.dart' as timeago;
 
 import '../../constants.dart';
 import '../../model/user.dart';
-import '../../service/notification_service.dart';
 import '../screens/chat_screen.dart';
 
 class UserItem extends StatefulWidget {
